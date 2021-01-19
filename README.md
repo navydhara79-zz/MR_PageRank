@@ -16,7 +16,8 @@ The data folder contains the sample data files.
 
 ## Execution:
 
-Please ensure proper permissions are given before executing the script. Command for that ```chmod +x iterate-hadoop.sh```
+Please ensure proper permissions are given before executing the script. Command for that 
+```chmod +x iterate-hadoop.sh```
 
 ```
 bash iterate-hadoop.sh 
